@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="posti_evento">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="posto" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" type="xs:positiveInteger" minOccurs="1"/>
+              <xs:element name="evento_id" type="xs:positiveInteger" minOccurs="1"/>
+              <xs:element name="settore" type="xs:string" minOccurs="1"/>
+              <xs:element name="numero_posto" type="xs:string" minOccurs="1"/>
+              <xs:element name="prezzo" type="xs:decimal" minOccurs="1"/>
+              <xs:element name="occupato" type="xs:boolean" minOccurs="1"/>
+              <xs:element name="username" type="xs:string" minOccurs="0"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

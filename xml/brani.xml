@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE brani SYSTEM "../dtd/brani.dtd">
+<brani>
+  <brano>
+    <id>1</id>
+    <album_id>1</album_id>
+    <titolo>DVI</titolo>
+    <durata>2:45</durata>
+    <immagine_brano>Dove_volano_le_aquile.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>2</id>
+    <album_id>1</album_id>
+    <titolo>Le Pietre Non Volano (feat. Marracash)</titolo>
+    <durata>3:32</durata>
+    <immagine_brano>marra.jpg</immagine_brano>
+  </brano>
+  <brano>
+    <id>3</id>
+    <album_id>1</album_id>
+    <titolo>Torna Da Me</titolo>
+    <durata>3:47</durata>
+    <immagine_brano>non_abbiamo_eta.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>4</id>
+    <album_id>1</album_id>
+    <titolo>Potere</titolo>
+    <durata>3:12</durata>
+    <immagine_brano>non_abbiamo_eta.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>5</id>
+    <album_id>1</album_id>
+    <titolo>O Primmo Ammore</titolo>
+    <durata>3:55</durata>
+    <immagine_brano>Malammore.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>6</id>
+    <album_id>1</album_id>
+    <titolo>Che Dio Mi Benedica</titolo>
+    <durata>3:18</durata>
+    <immagine_brano>Malammore.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>7</id>
+    <album_id>2</album_id>
+    <titolo>Come Vuoi</titolo>
+    <durata>3:12</durata>
+    <immagine_brano>coraggio.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>8</id>
+    <album_id>2</album_id>
+    <titolo>X CASO (feat. Sfera Ebbasta)</titolo>
+    <durata>3:34</durata>
+    <immagine_brano>coraggio.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>9</id>
+    <album_id>2</album_id>
+    <titolo>I P ME, TU P TE</titolo>
+    <durata>3:07</durata>
+    <immagine_brano>ipme.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>10</id>
+    <album_id>2</album_id>
+    <titolo>Chiagne (feat. Lazza)</titolo>
+    <durata>3:05</durata>
+    <immagine_brano>chiagne.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>11</id>
+    <album_id>2</album_id>
+    <titolo>Money</titolo>
+    <durata>2:50</durata>
+    <immagine_brano>coraggio.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>12</id>
+    <album_id>2</album_id>
+    <titolo>Maradona</titolo>
+    <durata>2:42</durata>
+    <immagine_brano>coraggio.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>13</id>
+    <album_id>3</album_id>
+    <titolo>Crazy Love</titolo>
+    <durata>3:12</durata>
+    <immagine_brano>noiloro.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>14</id>
+    <album_id>3</album_id>
+    <titolo>Infinity Love (feat. Guè)</titolo>
+    <durata>3:00</durata>
+    <immagine_brano>noiloro.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>15</id>
+    <album_id>3</album_id>
+    <titolo>Nemesi</titolo>
+    <durata>3:45</durata>
+    <immagine_brano>noiloro.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>16</id>
+    <album_id>3</album_id>
+    <titolo>Bravi a Cadere</titolo>
+    <durata>3:18</durata>
+    <immagine_brano>persona.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>17</id>
+    <album_id>3</album_id>
+    <titolo>Crudelia - I Nervi</titolo>
+    <durata>3:30</durata>
+    <immagine_brano>persona.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>18</id>
+    <album_id>3</album_id>
+    <titolo>Dubbi</titolo>
+    <durata>3:52</durata>
+    <immagine_brano>persona.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>19</id>
+    <album_id>4</album_id>
+    <titolo>Cenere</titolo>
+    <durata>3:28</durata>
+    <immagine_brano>cenere.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>20</id>
+    <album_id>4</album_id>
+    <titolo>Piove (feat. Sfera Ebbasta)</titolo>
+    <durata>3:10</durata>
+    <immagine_brano>sirio.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>21</id>
+    <album_id>4</album_id>
+    <titolo>Panico (feat. Takagi &amp; Ketra)</titolo>
+    <durata>3:02</durata>
+    <immagine_brano>sirio.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>22</id>
+    <album_id>4</album_id>
+    <titolo>Molotov</titolo>
+    <durata>3:11</durata>
+    <immagine_brano>sirio.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>23</id>
+    <album_id>4</album_id>
+    <titolo>Uscito Di Galera</titolo>
+    <durata>2:55</durata>
+    <immagine_brano>sirio.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>24</id>
+    <album_id>4</album_id>
+    <titolo>Senza Rumore</titolo>
+    <durata>3:35</durata>
+    <immagine_brano>sirio.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>25</id>
+    <album_id>5</album_id>
+    <titolo>Brivido (feat. Marracash)</titolo>
+    <durata>3:44</durata>
+    <immagine_brano>brivido.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>26</id>
+    <album_id>5</album_id>
+    <titolo>Cookies N Cream (feat. Sfera &amp; Anna)</titolo>
+    <durata>3:15</durata>
+    <immagine_brano>madreperla.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>27</id>
+    <album_id>5</album_id>
+    <titolo>Mollami Pt. 2</titolo>
+    <durata>2:40</durata>
+    <immagine_brano>madreperla.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>28</id>
+    <album_id>5</album_id>
+    <titolo>Prefissi</titolo>
+    <durata>3:02</durata>
+    <immagine_brano>madreperla.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>29</id>
+    <album_id>5</album_id>
+    <titolo>Chico</titolo>
+    <durata>3:21</durata>
+    <immagine_brano>fini.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>30</id>
+    <album_id>5</album_id>
+    <titolo>Salvador Dalì</titolo>
+    <durata>3:10</durata>
+    <immagine_brano>santeria.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>31</id>
+    <album_id>6</album_id>
+    <titolo>Bottiglie Privè</titolo>
+    <durata>3:10</durata>
+    <immagine_brano>famoso.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>32</id>
+    <album_id>6</album_id>
+    <titolo>Baby (feat. J Balvin)</titolo>
+    <durata>3:16</durata>
+    <immagine_brano>famoso.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>33</id>
+    <album_id>6</album_id>
+    <titolo>Tik Tok (feat. Marracash &amp; Guè)</titolo>
+    <durata>3:42</durata>
+    <immagine_brano>famoso.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>34</id>
+    <album_id>6</album_id>
+    <titolo>Famoso</titolo>
+    <durata>2:58</durata>
+    <immagine_brano>famoso.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>35</id>
+    <album_id>6</album_id>
+    <titolo>Bang Bang</titolo>
+    <durata>3:20</durata>
+    <immagine_brano>bang_bang.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>36</id>
+    <album_id>6</album_id>
+    <titolo>Male</titolo>
+    <durata>3:05</durata>
+    <immagine_brano>famoso.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>37</id>
+    <album_id>7</album_id>
+    <titolo>TEMPO PERSO</titolo>
+    <durata>3:02</durata>
+    <immagine_brano>tempo_perso.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>38</id>
+    <album_id>7</album_id>
+    <titolo>Piena Estate (feat. Luca Romeo)</titolo>
+    <durata>2:50</durata>
+    <immagine_brano>piena_estate.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>39</id>
+    <album_id>7</album_id>
+    <titolo>Calmo</titolo>
+    <durata>2:21</durata>
+    <immagine_brano>calmo.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>40</id>
+    <album_id>7</album_id>
+    <titolo>Neanche io</titolo>
+    <durata>2:33</durata>
+    <immagine_brano>neanche_io.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>41</id>
+    <album_id>8</album_id>
+    <titolo>TEMPO PERSO</titolo>
+    <durata>3:02</durata>
+    <immagine_brano>tempo_perso.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>42</id>
+    <album_id>8</album_id>
+    <titolo>Piena Estate (feat. SixTeenReid)</titolo>
+    <durata>2:50</durata>
+    <immagine_brano>piena_estate.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>43</id>
+    <album_id>8</album_id>
+    <titolo>Strega</titolo>
+    <durata>3:27</durata>
+    <immagine_brano>strega.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>44</id>
+    <album_id>8</album_id>
+    <titolo>Un'altra Scusa</titolo>
+    <durata>2:50</durata>
+    <immagine_brano>altra_scusa.png</immagine_brano>
+  </brano>
+  <brano>
+    <id>45</id>
+    <album_id>8</album_id>
+    <titolo>Alice</titolo>
+    <durata>2:42</durata>
+    <immagine_brano>alice.png</immagine_brano>
+  </brano>
+</brani>

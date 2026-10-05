@@ -1,0 +1,1623 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<posti_evento xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/posti_evento.xsd">
+  <posto>
+    <id>1</id>
+    <evento_id>1</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-1</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>2</id>
+    <evento_id>1</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-2</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>3</id>
+    <evento_id>1</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-3</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>4</id>
+    <evento_id>1</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-4</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>5</id>
+    <evento_id>1</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-1</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>6</id>
+    <evento_id>1</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-2</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>7</id>
+    <evento_id>1</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-3</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>8</id>
+    <evento_id>1</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-4</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>9</id>
+    <evento_id>1</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-1</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>10</id>
+    <evento_id>1</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-2</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>11</id>
+    <evento_id>1</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-3</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>12</id>
+    <evento_id>1</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-4</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>13</id>
+    <evento_id>2</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-1</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>14</id>
+    <evento_id>2</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-2</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>15</id>
+    <evento_id>2</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-3</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>16</id>
+    <evento_id>2</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-4</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>17</id>
+    <evento_id>2</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-1</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>18</id>
+    <evento_id>2</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-2</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>19</id>
+    <evento_id>2</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-3</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>20</id>
+    <evento_id>2</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-4</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>21</id>
+    <evento_id>2</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-1</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>22</id>
+    <evento_id>2</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-2</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>23</id>
+    <evento_id>2</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-3</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>24</id>
+    <evento_id>2</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-4</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>25</id>
+    <evento_id>3</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-1</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>26</id>
+    <evento_id>3</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-2</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>27</id>
+    <evento_id>3</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-3</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>28</id>
+    <evento_id>3</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-4</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>29</id>
+    <evento_id>3</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-1</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>30</id>
+    <evento_id>3</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-2</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>31</id>
+    <evento_id>3</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-3</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>32</id>
+    <evento_id>3</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-4</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>33</id>
+    <evento_id>3</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-1</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>34</id>
+    <evento_id>3</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-2</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>35</id>
+    <evento_id>3</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-3</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>36</id>
+    <evento_id>3</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-4</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>37</id>
+    <evento_id>4</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-1</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>38</id>
+    <evento_id>4</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-2</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>39</id>
+    <evento_id>4</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-3</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>40</id>
+    <evento_id>4</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-4</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>41</id>
+    <evento_id>4</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-1</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>42</id>
+    <evento_id>4</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-2</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>43</id>
+    <evento_id>4</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-3</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>44</id>
+    <evento_id>4</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-4</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>45</id>
+    <evento_id>4</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-1</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>46</id>
+    <evento_id>4</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-2</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>47</id>
+    <evento_id>4</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-3</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>48</id>
+    <evento_id>4</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-4</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>49</id>
+    <evento_id>5</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-1</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>50</id>
+    <evento_id>5</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-2</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>51</id>
+    <evento_id>5</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-3</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>52</id>
+    <evento_id>5</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-4</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>53</id>
+    <evento_id>5</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-1</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>54</id>
+    <evento_id>5</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-2</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>55</id>
+    <evento_id>5</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-3</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>56</id>
+    <evento_id>5</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-4</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>57</id>
+    <evento_id>5</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-1</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>58</id>
+    <evento_id>5</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-2</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>59</id>
+    <evento_id>5</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-3</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>60</id>
+    <evento_id>5</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-4</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>61</id>
+    <evento_id>6</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-1</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>62</id>
+    <evento_id>6</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-2</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>63</id>
+    <evento_id>6</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-3</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>64</id>
+    <evento_id>6</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-4</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>65</id>
+    <evento_id>6</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-1</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>66</id>
+    <evento_id>6</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-2</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>67</id>
+    <evento_id>6</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-3</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>68</id>
+    <evento_id>6</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-4</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>69</id>
+    <evento_id>6</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-1</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>70</id>
+    <evento_id>6</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-2</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>71</id>
+    <evento_id>6</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-3</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>72</id>
+    <evento_id>6</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-4</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>73</id>
+    <evento_id>7</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-1</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>74</id>
+    <evento_id>7</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-2</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>75</id>
+    <evento_id>7</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-3</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>76</id>
+    <evento_id>7</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-4</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>77</id>
+    <evento_id>7</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-1</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>78</id>
+    <evento_id>7</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-2</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>79</id>
+    <evento_id>7</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-3</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>80</id>
+    <evento_id>7</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-4</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>81</id>
+    <evento_id>7</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-1</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>82</id>
+    <evento_id>7</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-2</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>83</id>
+    <evento_id>7</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-3</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>84</id>
+    <evento_id>7</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-4</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>85</id>
+    <evento_id>8</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-1</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>86</id>
+    <evento_id>8</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-2</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>87</id>
+    <evento_id>8</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-3</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>88</id>
+    <evento_id>8</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-4</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>89</id>
+    <evento_id>8</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-1</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>90</id>
+    <evento_id>8</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-2</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>91</id>
+    <evento_id>8</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-3</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>92</id>
+    <evento_id>8</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-4</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>93</id>
+    <evento_id>8</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-1</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>94</id>
+    <evento_id>8</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-2</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>95</id>
+    <evento_id>8</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-3</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>96</id>
+    <evento_id>8</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-4</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>97</id>
+    <evento_id>9</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-1</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>98</id>
+    <evento_id>9</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-2</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>99</id>
+    <evento_id>9</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-3</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>100</id>
+    <evento_id>9</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-4</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>101</id>
+    <evento_id>9</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-1</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>102</id>
+    <evento_id>9</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-2</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>103</id>
+    <evento_id>9</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-3</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>104</id>
+    <evento_id>9</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-4</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>105</id>
+    <evento_id>9</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-1</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>106</id>
+    <evento_id>9</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-2</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>107</id>
+    <evento_id>9</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-3</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>108</id>
+    <evento_id>9</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-4</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>109</id>
+    <evento_id>10</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-1</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>110</id>
+    <evento_id>10</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-2</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>111</id>
+    <evento_id>10</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-3</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>112</id>
+    <evento_id>10</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-4</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>113</id>
+    <evento_id>10</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-1</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>114</id>
+    <evento_id>10</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-2</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>115</id>
+    <evento_id>10</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-3</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>116</id>
+    <evento_id>10</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-4</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>117</id>
+    <evento_id>10</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-1</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>118</id>
+    <evento_id>10</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-2</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>119</id>
+    <evento_id>10</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-3</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>120</id>
+    <evento_id>10</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-4</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>121</id>
+    <evento_id>11</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-1</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>122</id>
+    <evento_id>11</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-2</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>123</id>
+    <evento_id>11</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-3</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>124</id>
+    <evento_id>11</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-4</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>125</id>
+    <evento_id>11</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-1</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>126</id>
+    <evento_id>11</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-2</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>127</id>
+    <evento_id>11</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-3</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>128</id>
+    <evento_id>11</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-4</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>129</id>
+    <evento_id>11</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-1</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>130</id>
+    <evento_id>11</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-2</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>131</id>
+    <evento_id>11</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-3</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>132</id>
+    <evento_id>11</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-4</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>133</id>
+    <evento_id>12</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-1</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>134</id>
+    <evento_id>12</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-2</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>135</id>
+    <evento_id>12</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-3</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>136</id>
+    <evento_id>12</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-4</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>137</id>
+    <evento_id>12</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-1</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>138</id>
+    <evento_id>12</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-2</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>139</id>
+    <evento_id>12</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-3</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>140</id>
+    <evento_id>12</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-4</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>141</id>
+    <evento_id>12</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-1</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>142</id>
+    <evento_id>12</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-2</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>143</id>
+    <evento_id>12</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-3</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>144</id>
+    <evento_id>12</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-4</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>145</id>
+    <evento_id>13</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-1</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>146</id>
+    <evento_id>13</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-2</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>147</id>
+    <evento_id>13</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-3</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>148</id>
+    <evento_id>13</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-4</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>149</id>
+    <evento_id>13</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-1</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>150</id>
+    <evento_id>13</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-2</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>151</id>
+    <evento_id>13</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-3</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>152</id>
+    <evento_id>13</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-4</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>153</id>
+    <evento_id>13</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-1</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>154</id>
+    <evento_id>13</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-2</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>155</id>
+    <evento_id>13</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-3</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>156</id>
+    <evento_id>13</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-4</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>157</id>
+    <evento_id>14</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-1</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>158</id>
+    <evento_id>14</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-2</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>159</id>
+    <evento_id>14</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-3</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>160</id>
+    <evento_id>14</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-4</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>161</id>
+    <evento_id>14</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-1</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>162</id>
+    <evento_id>14</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-2</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>163</id>
+    <evento_id>14</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-3</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>164</id>
+    <evento_id>14</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-4</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>165</id>
+    <evento_id>14</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-1</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>166</id>
+    <evento_id>14</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-2</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>167</id>
+    <evento_id>14</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-3</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>168</id>
+    <evento_id>14</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-4</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>169</id>
+    <evento_id>15</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-1</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>170</id>
+    <evento_id>15</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-2</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>171</id>
+    <evento_id>15</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-3</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>172</id>
+    <evento_id>15</evento_id>
+    <settore>Parterre Standing</settore>
+    <numero_posto>PAR-4</numero_posto>
+    <prezzo>35.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>173</id>
+    <evento_id>15</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-1</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>174</id>
+    <evento_id>15</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-2</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>175</id>
+    <evento_id>15</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-3</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>176</id>
+    <evento_id>15</evento_id>
+    <settore>Tribuna VIP Numerata</settore>
+    <numero_posto>TRI-4</numero_posto>
+    <prezzo>65.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>177</id>
+    <evento_id>15</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-1</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>178</id>
+    <evento_id>15</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-2</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>179</id>
+    <evento_id>15</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-3</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>1</occupato>
+    <username/>
+  </posto>
+  <posto>
+    <id>180</id>
+    <evento_id>15</evento_id>
+    <settore>Primo Anello Laterale</settore>
+    <numero_posto>PRI-4</numero_posto>
+    <prezzo>45.00</prezzo>
+    <occupato>0</occupato>
+    <username/>
+  </posto>
+</posti_evento>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="merchandise_album">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="prodotto" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" type="xs:positiveInteger" minOccurs="1"/>
+              <xs:element name="album_id" type="xs:positiveInteger" minOccurs="1"/>
+              <xs:element name="tipo_prodotto" type="xs:string" minOccurs="1"/>
+              <xs:element name="prezzo" type="xs:decimal" minOccurs="1"/>
+              <xs:element name="immagine_prodotto" type="xs:string" minOccurs="1"/>
+              <xs:element name="disponibile" type="xs:boolean" minOccurs="1"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

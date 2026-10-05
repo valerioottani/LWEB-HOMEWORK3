@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE messaggi_community SYSTEM "../dtd/messaggi_community.dtd">
+<messaggi_community>
+  <messaggio_community>
+    <id>1</id>
+    <artista_gruppo>Luchè</artista_gruppo>
+    <username>admin</username>
+    <messaggio>Benvenuti nello spazio ufficiale della community! Condividete qui le vostre impressioni sui dischi.</messaggio>
+    <data_invio null="true"/>
+  </messaggio_community>
+  <messaggio_community>
+    <id>2</id>
+    <artista_gruppo>Geolier</artista_gruppo>
+    <username>user</username>
+    <messaggio>Il nuovo album è semplicemente pazzesco, non smetto di ascoltarlo.</messaggio>
+    <data_invio null="true"/>
+  </messaggio_community>
+  <messaggio_community>
+    <id>3</id>
+    <artista_gruppo>Marracash</artista_gruppo>
+    <username>admin</username>
+    <messaggio>Il King del Rap non delude mai. Qual è la vostra traccia preferita di Persona?</messaggio>
+    <data_invio null="true"/>
+  </messaggio_community>
+  <messaggio_community>
+    <id>4</id>
+    <artista_gruppo>Lazza</artista_gruppo>
+    <username>user</username>
+    <messaggio>Sirio è un capolavoro assoluto dall inizio alla fine!</messaggio>
+    <data_invio null="true"/>
+  </messaggio_community>
+  <messaggio_community>
+    <id>5</id>
+    <artista_gruppo>Guè</artista_gruppo>
+    <username>user</username>
+    <messaggio>Madreperla ha un flow e dei beat che spaccano troppo.</messaggio>
+    <data_invio null="true"/>
+  </messaggio_community>
+  <messaggio_community>
+    <id>6</id>
+    <artista_gruppo>Sfera Ebbasta</artista_gruppo>
+    <username>admin</username>
+    <messaggio>Preparatevi perché quest anno ci saranno grandissime novità live!</messaggio>
+    <data_invio null="true"/>
+  </messaggio_community>
+  <messaggio_community>
+    <id>7</id>
+    <artista_gruppo>SixTeenReid</artista_gruppo>
+    <username>user</username>
+    <messaggio>Bella raga, chi viene al prossimo concerto in tour?</messaggio>
+    <data_invio null="true"/>
+  </messaggio_community>
+  <messaggio_community>
+    <id>8</id>
+    <artista_gruppo>Luca Romeo</artista_gruppo>
+    <username>user</username>
+    <messaggio>Sto provando a rifare gli accordi di chitarra, pezzi incredibili.</messaggio>
+    <data_invio null="true"/>
+  </messaggio_community>
+</messaggi_community>

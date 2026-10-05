@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE stazioni_radio SYSTEM "../dtd/stazioni_radio.dtd">
+<stazioni_radio>
+  <stazione>
+    <id>1</id>
+    <nome>Luchè Radio</nome>
+    <artisti>Con Geolier, Guè, Marracash e molti altri</artisti>
+    <immagine>primo_piano.png</immagine>
+    <sfondo_css>linear-gradient(135deg, #1e3264 0%, #000000 100%)</sfondo_css>
+  </stazione>
+  <stazione>
+    <id>2</id>
+    <nome>Geolier Radio</nome>
+    <artisti>Con Luchè, Lazza, Sfera Ebbasta e altri</artisti>
+    <immagine>geolier.jpg</immagine>
+    <sfondo_css>linear-gradient(135deg, #8d67ab 0%, #000000 100%)</sfondo_css>
+  </stazione>
+  <stazione>
+    <id>3</id>
+    <nome>Marracash Radio</nome>
+    <artisti>Con Guè, Fabri Fibra, Salmo e altri</artisti>
+    <immagine>marra.jpg</immagine>
+    <sfondo_css>linear-gradient(135deg, #e8115b 0%, #000000 100%)</sfondo_css>
+  </stazione>
+  <stazione>
+    <id>4</id>
+    <nome>Lazza Radio</nome>
+    <artisti>Con Sfera Ebbasta, Shiva, Tedua e altri</artisti>
+    <immagine>lazza.jpg</immagine>
+    <sfondo_css>linear-gradient(135deg, #148a08 0%, #000000 100%)</sfondo_css>
+  </stazione>
+  <stazione>
+    <id>5</id>
+    <nome>Guè Radio</nome>
+    <artisti>Con Club Dogo, Marracash, Noyz Narcos e altri</artisti>
+    <immagine>gue.jpg</immagine>
+    <sfondo_css>linear-gradient(135deg, #e91429 0%, #000000 100%)</sfondo_css>
+  </stazione>
+</stazioni_radio>

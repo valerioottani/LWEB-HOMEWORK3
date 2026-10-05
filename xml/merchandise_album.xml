@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<merchandise_album xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/merchandise_album.xsd">
+  <prodotto>
+    <id>1</id>
+    <album_id>1</album_id>
+    <tipo_prodotto>Vinile 33 Giri (Collector Edition)</tipo_prodotto>
+    <prezzo>29.90</prezzo>
+    <immagine_prodotto>vinile_luche.png</immagine_prodotto>
+    <disponibile>1</disponibile>
+  </prodotto>
+  <prodotto>
+    <id>2</id>
+    <album_id>1</album_id>
+    <tipo_prodotto>CD Audio Autografato</tipo_prodotto>
+    <prezzo>18.00</prezzo>
+    <immagine_prodotto>cd_luche.png</immagine_prodotto>
+    <disponibile>1</disponibile>
+  </prodotto>
+  <prodotto>
+    <id>3</id>
+    <album_id>1</album_id>
+    <tipo_prodotto>T-Shirt Ufficiale Tour</tipo_prodotto>
+    <prezzo>25.00</prezzo>
+    <immagine_prodotto>maglia_luche.png</immagine_prodotto>
+    <disponibile>0</disponibile>
+  </prodotto>
+  <prodotto>
+    <id>4</id>
+    <album_id>2</album_id>
+    <tipo_prodotto>Vinile 33 Giri Colorato</tipo_prodotto>
+    <prezzo>32.00</prezzo>
+    <immagine_prodotto>vinile_geolier.png</immagine_prodotto>
+    <disponibile>1</disponibile>
+  </prodotto>
+  <prodotto>
+    <id>5</id>
+    <album_id>2</album_id>
+    <tipo_prodotto>CD Audio Standard</tipo_prodotto>
+    <prezzo>16.50</prezzo>
+    <immagine_prodotto>cd_geolier.png</immagine_prodotto>
+    <disponibile>1</disponibile>
+  </prodotto>
+  <prodotto>
+    <id>6</id>
+    <album_id>2</album_id>
+    <tipo_prodotto>Felpa / Maglia Oversize</tipo_prodotto>
+    <prezzo>45.00</prezzo>
+    <immagine_prodotto>maglia_geolier.png</immagine_prodotto>
+    <disponibile>1</disponibile>
+  </prodotto>
+  <prodotto>
+    <id>7</id>
+    <album_id>3</album_id>
+    <tipo_prodotto>Vinile 33 Giri</tipo_prodotto>
+    <prezzo>30.00</prezzo>
+    <immagine_prodotto>vinile_marra.png</immagine_prodotto>
+    <disponibile>1</disponibile>
+  </prodotto>
+  <prodotto>
+    <id>8</id>
+    <album_id>3</album_id>
+    <tipo_prodotto>CD Audio</tipo_prodotto>
+    <prezzo>17.00</prezzo>
+    <immagine_prodotto>cd_marra.png</immagine_prodotto>
+    <disponibile>0</disponibile>
+  </prodotto>
+  <prodotto>
+    <id>9</id>
+    <album_id>3</album_id>
+    <tipo_prodotto>T-Shirt King del Rap</tipo_prodotto>
+    <prezzo>24.00</prezzo>
+    <immagine_prodotto>maglia_marra.png</immagine_prodotto>
+    <disponibile>1</disponibile>
+  </prodotto>
+  <prodotto>
+    <id>10</id>
+    <album_id>4</album_id>
+    <tipo_prodotto>Vinile Collector Sirio</tipo_prodotto>
+    <prezzo>35.00</prezzo>
+    <immagine_prodotto>vinile_lazza.png</immagine_prodotto>
+    <disponibile>1</disponibile>
+  </prodotto>
+  <prodotto>
+    <id>11</id>
+    <album_id>4</album_id>
+    <tipo_prodotto>CD Audio Sirio</tipo_prodotto>
+    <prezzo>16.00</prezzo>
+    <immagine_prodotto>cd_lazza.png</immagine_prodotto>
+    <disponibile>1</disponibile>
+  </prodotto>
+  <prodotto>
+    <id>12</id>
+    <album_id>4</album_id>
+    <tipo_prodotto>Maglia Ufficiale Lazza</tipo_prodotto>
+    <prezzo>28.00</prezzo>
+    <immagine_prodotto>maglia_lazza.png</immagine_prodotto>
+    <disponibile>1</disponibile>
+  </prodotto>
+</merchandise_album>

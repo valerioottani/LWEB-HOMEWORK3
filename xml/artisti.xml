@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE artisti SYSTEM "../dtd/artisti.dtd">
+<artisti>
+  <artista>
+    <id>1</id>
+    <nome>Luchè</nome>
+    <biografia>Luca Imprudente, in arte Luchè, ha ridefinito il rap e la musica urban partenopea e italiana.</biografia>
+    <immagine>primo_piano.png</immagine>
+  </artista>
+  <artista>
+    <id>2</id>
+    <nome>Geolier</nome>
+    <biografia>Emanuele Palumbo, tra le voci più influenti e ascoltate della nuova scena rap napoletana.</biografia>
+    <immagine>geolier.jpg</immagine>
+  </artista>
+  <artista>
+    <id>3</id>
+    <nome>Marracash</nome>
+    <biografia>Fabio Bartolo Rizzo, universalmente celebrato come il King del Rap italiano.</biografia>
+    <immagine>marra.jpg</immagine>
+  </artista>
+  <artista>
+    <id>4</id>
+    <nome>Lazza</nome>
+    <biografia>Jacopo Lazzarini, pianista, rapper e produttore milanese ai vertici delle classifiche.</biografia>
+    <immagine>lazza.jpg</immagine>
+  </artista>
+  <artista>
+    <id>5</id>
+    <nome>Guè</nome>
+    <biografia>Cosimo Fini, colonna portante della cultura hip hop italiana e membro storico dei Club Dogo.</biografia>
+    <immagine>gue.jpg</immagine>
+  </artista>
+  <artista>
+    <id>6</id>
+    <nome>Sfera Ebbasta</nome>
+    <biografia>Gionata Boschetti, pioniere indiscusso della trap italiana e artista multiplatino.</biografia>
+    <immagine>sfera.jpg</immagine>
+  </artista>
+  <artista>
+    <id>7</id>
+    <nome>SixTeenReid</nome>
+    <biografia>Giovane talento e beatmaker emergente con sonorità innovative nel panorama urban.</biografia>
+    <immagine>sixteenreid.jpg</immagine>
+  </artista>
+  <artista>
+    <id>8</id>
+    <nome>Luca Romeo</nome>
+    <biografia>Cantautore e musicista con uno stile originale tra melodie pop e urban contemporaneo.</biografia>
+    <immagine>romeo.jpg</immagine>
+  </artista>
+</artisti>

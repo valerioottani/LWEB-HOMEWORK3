@@ -1,0 +1,7 @@
+<!ELEMENT articoli_blog (articolo*)>
+<!ELEMENT articolo (id, titolo, contenuto, autore, data)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT titolo (#PCDATA)>
+<!ELEMENT contenuto (#PCDATA)>
+<!ELEMENT autore (#PCDATA)>
+<!ELEMENT data (#PCDATA)>

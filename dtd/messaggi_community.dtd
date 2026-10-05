@@ -1,0 +1,8 @@
+<!ELEMENT messaggi_community (messaggio_community*)>
+<!ELEMENT messaggio_community (id, artista_gruppo, username, messaggio, data_invio)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT artista_gruppo (#PCDATA)>
+<!ELEMENT username (#PCDATA)>
+<!ELEMENT messaggio (#PCDATA)>
+<!ELEMENT data_invio (#PCDATA)>
+<!ATTLIST data_invio null (true|false) #IMPLIED>

@@ -1,0 +1,7 @@
+<!ELEMENT stazioni_radio (stazione*)>
+<!ELEMENT stazione (id, nome, artisti, immagine, sfondo_css)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT artisti (#PCDATA)>
+<!ELEMENT immagine (#PCDATA)>
+<!ELEMENT sfondo_css (#PCDATA)>

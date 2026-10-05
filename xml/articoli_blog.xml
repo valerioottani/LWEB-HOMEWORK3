@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE articoli_blog SYSTEM "../dtd/articoli_blog.dtd">
+<articoli_blog>
+  <articolo>
+    <id>1</id>
+    <titolo>Il ritorno di Luchè: anatomia di un successo che ridefinisce il rap d'autore</titolo>
+    <contenuto>C'è un momento preciso...</contenuto>
+    <autore>Redazione Urban</autore>
+    <data>25 Agosto 2026</data>
+  </articolo>
+  <articolo>
+    <id>2</id>
+    <titolo>La nuova età dell'oro del Rap Italiano</titolo>
+    <contenuto>Se qualcuno avesse detto dieci anni fa...</contenuto>
+    <autore>Pincopallino S.</autore>
+    <data>24 Agosto 2026</data>
+  </articolo>
+  <articolo>
+    <id>3</id>
+    <titolo>Dietro le Quinte del Tour</titolo>
+    <contenuto>Portare in giro per l’Italia un tour...</contenuto>
+    <autore>Redazione Live</autore>
+    <data>20 Agosto 2026</data>
+  </articolo>
+  <articolo>
+    <id>4</id>
+    <titolo>Il Ritorno del Vinile</titolo>
+    <contenuto>Nell'era dello streaming on-demand...</contenuto>
+    <autore>Marco V.</autore>
+    <data>15 Agosto 2026</data>
+  </articolo>
+</articoli_blog>

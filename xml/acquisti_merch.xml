@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<acquisti_merch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/acquisti_merch.xsd">
+  <acquisto>
+    <id>1</id>
+    <username>utente</username>
+    <merchandise_id>1</merchandise_id>
+    <quantita>1</quantita>
+    <data_acquisto/>
+  </acquisto>
+  <acquisto>
+    <id>2</id>
+    <username>utente</username>
+    <merchandise_id>5</merchandise_id>
+    <quantita>1</quantita>
+    <data_acquisto/>
+  </acquisto>
+  <acquisto>
+    <id>3</id>
+    <username>alessia_monti</username>
+    <merchandise_id>4</merchandise_id>
+    <quantita>1</quantita>
+    <data_acquisto/>
+  </acquisto>
+  <acquisto>
+    <id>4</id>
+    <username>federico_esposito</username>
+    <merchandise_id>10</merchandise_id>
+    <quantita>1</quantita>
+    <data_acquisto/>
+  </acquisto>
+</acquisti_merch>

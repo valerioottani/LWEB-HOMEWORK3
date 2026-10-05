@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eventi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/eventi.xsd">
+  <evento>
+    <id>1</id>
+    <giorno>18</giorno>
+    <mese>LUG</mese>
+    <titolo>Luchè Summer Tour Live</titolo>
+    <luogo>Piazza del Plebiscito, Napoli</luogo>
+    <link_biglietti>https://www.ticketone.it</link_biglietti>
+  </evento>
+  <evento>
+    <id>2</id>
+    <giorno>24</giorno>
+    <mese>LUG</mese>
+    <titolo>Geolier Stadium Tour</titolo>
+    <luogo>Stadio Diego Armando Maradona, Napoli</luogo>
+    <link_biglietti>https://www.ticketone.it</link_biglietti>
+  </evento>
+  <evento>
+    <id>3</id>
+    <giorno>31</giorno>
+    <mese>LUG</mese>
+    <titolo>Marracash - Marrageddon Festival</titolo>
+    <luogo>Ippodromo La Maura, Milano</luogo>
+    <link_biglietti>https://www.ticketone.it</link_biglietti>
+  </evento>
+  <evento>
+    <id>4</id>
+    <giorno>8</giorno>
+    <mese>AGO</mese>
+    <titolo>Lazza - Locura Tour Live</titolo>
+    <luogo>Arena di Verona, Verona</luogo>
+    <link_biglietti>https://www.ticketone.it</link_biglietti>
+  </evento>
+  <evento>
+    <id>5</id>
+    <giorno>14</giorno>
+    <mese>AGO</mese>
+    <titolo>Sfera Ebbasta Summer Showcase</titolo>
+    <luogo>Red Valley Festival, Olbia</luogo>
+    <link_biglietti>https://www.ticketone.it</link_biglietti>
+  </evento>
+  <evento>
+    <id>6</id>
+    <giorno>24</giorno>
+    <mese>AGO</mese>
+    <titolo>Urban Vibes Showcase (Guè &amp; Friends)</titolo>
+    <luogo>Ippodromo delle Capannelle, Roma</luogo>
+    <link_biglietti>https://www.ticketone.it</link_biglietti>
+  </evento>
+  <evento>
+    <id>7</id>
+    <giorno>5</giorno>
+    <mese>SET</mese>
+    <titolo>SixTeenReid Producer Night</titolo>
+    <luogo>Rock in Roma, Ippodromo delle Capannelle</luogo>
+    <link_biglietti>https://www.ticketone.it</link_biglietti>
+  </evento>
+  <evento>
+    <id>8</id>
+    <giorno>12</giorno>
+    <mese>SET</mese>
+    <titolo>Luca Romeo Acoustic &amp; Live Band</titolo>
+    <luogo>Auditorium Parco della Musica, Roma</luogo>
+    <link_biglietti>https://www.ticketone.it</link_biglietti>
+  </evento>
+  <evento>
+    <id>9</id>
+    <giorno>19</giorno>
+    <mese>SET</mese>
+    <titolo>Milano Hip Hop All-Stars (Special Guests)</titolo>
+    <luogo>Mediolanum Forum, Assago (MI)</luogo>
+    <link_biglietti>https://www.ticketone.it</link_biglietti>
+  </evento>
+  <evento>
+    <id>10</id>
+    <giorno>27</giorno>
+    <mese>SET</mese>
+    <titolo>Napoli Urban Fest 2026</titolo>
+    <luogo>Palapartenope, Napoli</luogo>
+    <link_biglietti>https://www.ticketone.it</link_biglietti>
+  </evento>
+  <evento>
+    <id>11</id>
+    <giorno>15</giorno>
+    <mese>OTT</mese>
+    <titolo>Autunno Rap Arena Tour - Opening Night</titolo>
+    <luogo>Unipol Arena, Bologna</luogo>
+    <link_biglietti>https://www.ticketone.it</link_biglietti>
+  </evento>
+  <evento>
+    <id>12</id>
+    <giorno>28</giorno>
+    <mese>OTT</mese>
+    <titolo>Halloween Hip Hop Night feat. Sfera &amp; Lazza</titolo>
+    <luogo>Alcatraz, Milano</luogo>
+    <link_biglietti>https://www.ticketone.it</link_biglietti>
+  </evento>
+  <evento>
+    <id>13</id>
+    <giorno>12</giorno>
+    <mese>NOV</mese>
+    <titolo>Winter Urban Fest - Special Edition</titolo>
+    <luogo>Nelson Mandela Forum, Firenze</luogo>
+    <link_biglietti>https://www.ticketone.it</link_biglietti>
+  </evento>
+  <evento>
+    <id>14</id>
+    <giorno>20</giorno>
+    <mese>DIC</mese>
+    <titolo>Christmas Rap Party &amp; Showcase</titolo>
+    <luogo>Atlantico, Roma</luogo>
+    <link_biglietti>https://www.ticketone.it</link_biglietti>
+  </evento>
+  <evento>
+    <id>15</id>
+    <giorno>31</giorno>
+    <mese>DIC</mese>
+    <titolo>Capodanno Rap &amp; Urban Countdown Live</titolo>
+    <luogo>Piazza del Plebiscito, Napoli</luogo>
+    <link_biglietti>https://www.ticketone.it</link_biglietti>
+  </evento>
+</eventi>

@@ -1,0 +1,6 @@
+<!ELEMENT artisti (artista*)>
+<!ELEMENT artista (id, nome, biografia, immagine)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT biografia (#PCDATA)>
+<!ELEMENT immagine (#PCDATA)>

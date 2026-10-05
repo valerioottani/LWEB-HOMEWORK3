@@ -1,0 +1,7 @@
+<!ELEMENT brani (brano*)>
+<!ELEMENT brano (id, album_id, titolo, durata, immagine_brano)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT album_id (#PCDATA)>
+<!ELEMENT titolo (#PCDATA)>
+<!ELEMENT durata (#PCDATA)>
+<!ELEMENT immagine_brano (#PCDATA)>

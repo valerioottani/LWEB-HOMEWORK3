@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/album.xsd">
+  <disco>
+    <id>1</id>
+    <artista_id>1</artista_id>
+    <titolo>Dove volano le aquile</titolo>
+    <anno>2022</anno>
+    <copertina>Dove_volano_le_aquile.png</copertina>
+  </disco>
+  <disco>
+    <id>2</id>
+    <artista_id>2</artista_id>
+    <titolo>Il Coraggio dei Bambini</titolo>
+    <anno>2023</anno>
+    <copertina>geolier.jpg</copertina>
+  </disco>
+  <disco>
+    <id>3</id>
+    <artista_id>3</artista_id>
+    <titolo>Noi, Loro, Gli Altri</titolo>
+    <anno>2021</anno>
+    <copertina>marra.jpg</copertina>
+  </disco>
+  <disco>
+    <id>4</id>
+    <artista_id>4</artista_id>
+    <titolo>Sirio</titolo>
+    <anno>2022</anno>
+    <copertina>lazza.jpg</copertina>
+  </disco>
+  <disco>
+    <id>5</id>
+    <artista_id>5</artista_id>
+    <titolo>Madreperla</titolo>
+    <anno>2023</anno>
+    <copertina>gue.jpg</copertina>
+  </disco>
+  <disco>
+    <id>6</id>
+    <artista_id>6</artista_id>
+    <titolo>Famoso</titolo>
+    <anno>2020</anno>
+    <copertina>famoso.png</copertina>
+  </disco>
+  <disco>
+    <id>7</id>
+    <artista_id>7</artista_id>
+    <titolo>Raccolta Singoli</titolo>
+    <anno>2020</anno>
+    <copertina>carletto_sfondo.png</copertina>
+  </disco>
+  <disco>
+    <id>8</id>
+    <artista_id>8</artista_id>
+    <titolo>Raccolta Singoli</titolo>
+    <anno>2020</anno>
+    <copertina>luca_sfondo.png</copertina>
+  </disco>
+</album>

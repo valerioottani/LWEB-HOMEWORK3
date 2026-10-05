@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/playlist.xsd">
+  <lista>
+    <id>1</id>
+    <titolo>Rap d'Autore &amp; Poesia</titolo>
+    <descrizione>I pezzi più introspettivi e profondi della scena urban.</descrizione>
+    <immagine>primo_piano.png</immagine>
+    <sfondo>linear-gradient(135deg, #1e3264 0%, #000000 100%)</sfondo>
+    <tipo>playlist</tipo>
+  </lista>
+  <lista>
+    <id>2</id>
+    <titolo>Stadi in Fiamme</titolo>
+    <descrizione>Gli inni generazionali che hanno riempito i palazzetti e gli stadi.</descrizione>
+    <immagine>marra.jpg</immagine>
+    <sfondo>linear-gradient(135deg, #51356b 0%, #000000 100%)</sfondo>
+    <tipo>playlist</tipo>
+  </lista>
+  <lista>
+    <id>3</id>
+    <titolo>Club &amp; Freestyle Vibes</titolo>
+    <descrizione>Le tracce più ritmate e i feat che hanno spaccato le classifiche.</descrizione>
+    <immagine>lazza.jpg</immagine>
+    <sfondo>linear-gradient(135deg, #148a08 0%, #000000 100%)</sfondo>
+    <tipo>playlist</tipo>
+  </lista>
+  <lista>
+    <id>101</id>
+    <titolo>Top 50 • Italia</titolo>
+    <descrizione>I brani più ascoltati oggi in Italia.</descrizione>
+    <immagine>cenere.png</immagine>
+    <sfondo>linear-gradient(135deg, #1e3264 0%, #000000 100%)</sfondo>
+    <tipo>classifica</tipo>
+  </lista>
+  <lista>
+    <id>102</id>
+    <titolo>Global Top 50</titolo>
+    <descrizione>I brani virali e più riprodotti al mondo.</descrizione>
+    <immagine>marra.jpg</immagine>
+    <sfondo>linear-gradient(135deg, #51356b 0%, #000000 100%)</sfondo>
+    <tipo>classifica</tipo>
+  </lista>
+  <lista>
+    <id>103</id>
+    <titolo>Italia Viral 50</titolo>
+    <descrizione>Le tracce che stanno spopolando di più in Italia.</descrizione>
+    <immagine>geolier.jpg</immagine>
+    <sfondo>linear-gradient(135deg, #8d67ab 0%, #000000 100%)</sfondo>
+    <tipo>classifica</tipo>
+  </lista>
+  <lista>
+    <id>104</id>
+    <titolo>Top Rap Italia</titolo>
+    <descrizione>Il meglio della scena urban e rap del momento.</descrizione>
+    <immagine>lazza.jpg</immagine>
+    <sfondo>linear-gradient(135deg, #148a08 0%, #000000 100%)</sfondo>
+    <tipo>classifica</tipo>
+  </lista>
+</playlist>
